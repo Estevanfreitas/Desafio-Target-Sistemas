@@ -6,7 +6,7 @@ Nesse repositório você encontrará as soluções dos desafios propostos no rec
 
 ## Soluções
 
-Você pode clicar [AQUI](https://felipemanchester.github.io/estagio-target-sistemas) e ver a página no ar com os resultados funcionando, ou rolar abaixo e ver as soluções detalhadamente.
+Você pode clicar [AQUI](https://estevanfreitas.github.io/Desafio-Target-Sistemas/) e ver a página no ar com os resultados funcionando, ou rolar abaixo e ver as soluções detalhadamente.
 <br />
 Questão 1 de 5
 
@@ -32,7 +32,7 @@ Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor semp
 
 IMPORTANTE:
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
-### Solução: [Fibonacci][(https://github.com/Estevanfreitas/Desafio-Target-Sistemas/blob/Estevanfreitas/desafio-estevanfreitas-2024/scripts/isFibonacci.js)
+### Solução: [Fibonacci](https://github.com/Estevanfreitas/Desafio-Target-Sistemas/blob/Estevanfreitas/desafio-estevanfreitas-2024/scripts/isFibonacci.js)
 
 Questão 3 de 5
 Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
